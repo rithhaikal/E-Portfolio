@@ -1,8 +1,8 @@
-# INDUSTRY TALK 2:
+# ASSIGNMENT 2:
 
-## OVERVIEW OF ICT JOBS IN CLARITY TECHWORKS SDN BHD
+## POSTER ON INDUSTRIAL TALK 1
 
-As part of this project, we have to create a poster regarding the industry speak that Universiti Teknologi Malaysia and Clarity Techworks Sdn Bhd are collaborating on using Webex.
+As part of this project, we have to create a poster regarding the industrial talk that Universiti Teknologi Malaysia and Clarity Techworks Sdn Bhd are collaborating on using Webex.
 
 ## REFLECTION
 
