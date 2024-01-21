@@ -1,6 +1,6 @@
 # ASSIGNMENT 3:
 
-## **Video on Visit to UTMDigital and the Attended Virtual Talk**
+## Video on Visit to UTMDigital and the Attended Virtual Talk
 
 For this project, we have to create a video during our visit to UTMDigital and the Attended Virtual Talk.
 
