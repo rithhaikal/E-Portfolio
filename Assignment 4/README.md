@@ -1,6 +1,6 @@
 # ASSIGNMENT 4:
 
-## # Report on Industrial Talks 2a or 2b
+## Report on Industrial Talks 2a or 2b
 
 In this project, we are required to prepare a report that should not exceed three pages based on Industrial Talk 2: System Development @ Credence (TM Subsidiary).
 
