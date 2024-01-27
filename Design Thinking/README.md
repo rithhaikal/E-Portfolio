@@ -1,7 +1,7 @@
 # DESIGN THINKING
 
 ## Report on Design Thinking
-
+In this project, we are required to identify related problems with our chapter and design a prototype to solve the problems.
 
 ##  *Reflection*
 My goal regarding my Technology Information System course is to become an expert in using technology
